@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Raju",
+    "date": "2025-07-19T04:43:45.110Z",
+    "present": false
+  },
+  {
+    "name": "Rajj",
+    "date": "2025-07-19T04:45:23.008Z",
+    "present": false
+  },
+  {
+    "name": "rajiv",
+    "date": "2025-07-19T04:46:09.499Z",
+    "present": true
+  },
+  {
+    "name": "Rajju",
+    "date": "2025-07-19T04:47:14.706Z",
+    "status": "present"
+  },
+  {
+    "name": "nab",
+    "date": "2025-07-19T04:47:22.995Z",
+    "status": "absent"
+  },
+  {
+    "name": "Ravi",
+    "date": "2025-07-19T05:05:35.064Z",
+    "status": "present"
+  },
+  {
+    "name": "Rajs",
+    "date": "2025-07-19T05:15:30.709Z",
+    "class": "Tybca A",
+    "RollNo": "29",
+    "status": "present"
+  },
+  {
+    "name": "rajjjjjjjjjjjjjj",
+    "date": "2025-07-19T05:46:51.768Z",
+    "class": "jjij",
+    "RollNo": "65656",
+    "Subject": "gyyy",
+    "status": "absent"
+  }
+]
